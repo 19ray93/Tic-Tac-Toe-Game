@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cyan;
+}
+table{
+    background-color: darkmagenta;
+}
+table#game td{
+    background-color: beige;
+    height:100px;
+    width: 100px;
+    border: solid gray 3px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
